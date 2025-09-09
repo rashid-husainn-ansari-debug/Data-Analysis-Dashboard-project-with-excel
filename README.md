@@ -14,8 +14,6 @@ The Zainab Fashion Store wants to create an annual sales report for 2022. So tha
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -23,8 +21,7 @@ The Zainab Fashion Store wants to create an annual sales report for 2022. So tha
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+https://github.com/rashid-husainn-ansari-debug/Data-Analysis-Dashboard-project-with-excel/blob/main/Zainab%20Fashin%20Store%20data%20Analysis.png
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
